@@ -3,6 +3,6 @@
   "symbol": "TEST",
   "decimals": 6,
   "description": "This is a test TRC20 token for demo purposes.",
-  "image": "https://kanishkmeta-dev.github.io/test-token-metadata/logo.png",
+  "image": "https://kanishkmeta-dev.github.io/test-token-metadata/docs/logo.png",
   "website": "https://example.com"
 }
